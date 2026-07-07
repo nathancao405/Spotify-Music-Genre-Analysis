@@ -24,7 +24,7 @@ This project analyzes over 114,000 Spotify tracks to compare music genres based 
 - Technical Reporting
 
 ## Project Files
-- `Spotify_Analysis.ipynb` – Analysis code
+- `Cao_Project2(1).ipynb` – Analysis code
 - `dataset.csv` – Spotify dataset
 - `Cao_Project2.pdf` – Project report
 - `README.md` – Project overview
