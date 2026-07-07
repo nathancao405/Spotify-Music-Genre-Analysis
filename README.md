@@ -42,6 +42,6 @@ The analysis revealed meaningful differences in audio characteristics across mus
 4. Run the analysis to generate the visualizations and summary statistics.
 
 ## Author
-Allyson Nguyen  
+Nathan Cao  
 Bachelor of Science in Data Science  
-University of Nevada, Las Vegas
+Arizona State University
